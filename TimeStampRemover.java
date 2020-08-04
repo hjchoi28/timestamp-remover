@@ -1,6 +1,6 @@
 // This program will remove the timestamps from automated transcripts of zoom recordings.
 // Any blank lines will also be removed unless a small change is made in the code.
-// Depending on the format, timestamps may not be successully removed.
+// Depending on the format, timestamps may not be successfully removed.
 
 import java.util.*;
 import java.io.*;
